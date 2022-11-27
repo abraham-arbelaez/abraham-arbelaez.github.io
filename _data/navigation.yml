@@ -7,10 +7,10 @@ main:
     url: /cv/
     
   - title: "Data Visualization"
-  url: /dataviz/
+    url: /dataviz/
   
   - title: "Misc"
-  url: /misc/
+    url: /misc/
     
   - title: "Contact me"
     url: /markdown/
