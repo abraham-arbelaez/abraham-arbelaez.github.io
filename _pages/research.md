@@ -15,6 +15,6 @@ Animal migration has the potential to be a very good indicator of environmental 
 <img src='/images/goldeneagle.gif'>
 
 
-[Download paper here](http://academicpages.github.io/files/cv.pdf)
+[See more here](http://academicpages.github.io/files/CV.pdf)
 
 
