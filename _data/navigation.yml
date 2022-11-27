@@ -6,6 +6,12 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Data Visualization"
+  url: /dataviz/
+  
+  - title: "Misc"
+  url: /misc/
+    
   - title: "Contact me"
     url: /markdown/
     
