@@ -7,16 +7,16 @@ redirect_from:
   - /dataviz.html
 ---
 
-### Different Data Visualization that I have developed
+## Different Data Visualization Projects
 
-#### Bald Eagle 
+### Bald Eagle 
 
 <img src='/images/eagleraw.png'>
 
 <img src='/images/mapraw.png'>
 
 
-#### Squirrels in Central Park project
+### Squirrels in Central Park project
 
 <img src='/images/mapsquirrel.png'>
 
