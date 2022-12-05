@@ -18,6 +18,6 @@ redirect_from:
 
 #### Squirrels in Central Park project
 
-<img src='/images/mapraw.png'>
+<img src='/images/mapsquirrel.png'>
 
 <img src='/images/mapraw.png'>
