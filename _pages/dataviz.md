@@ -20,4 +20,4 @@ redirect_from:
 
 <img src='/images/mapsquirrel.png'>
 
-<img src='/images/mapraw.png'>
+<img src='/images/percentsquirrel.png'>
