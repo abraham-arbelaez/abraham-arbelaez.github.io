@@ -7,9 +7,17 @@ redirect_from:
   - /dataviz.html
 ---
 
+### Different Data Visualization that I have developed
 
-#### Cool Data Visualization that I have developed
+#### Bald Eagle 
 
 <img src='/images/eagleraw.png'>
+
+<img src='/images/mapraw.png'>
+
+
+#### Squirrels in Central Park project
+
+<img src='/images/mapraw.png'>
 
 <img src='/images/mapraw.png'>
