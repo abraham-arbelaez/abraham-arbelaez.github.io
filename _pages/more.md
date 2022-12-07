@@ -1,5 +1,5 @@
 ---
-permalink: /dataviz/
+permalink: /more/
 title: "More About Me"
 author_profile: true
 redirect_from: 
