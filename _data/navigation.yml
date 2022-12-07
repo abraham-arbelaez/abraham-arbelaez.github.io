@@ -8,4 +8,7 @@ main:
     
   - title: "Data Visualization"
     url: /dataviz/
+   
+   - title: "About Me"
+    url: /about/
 
