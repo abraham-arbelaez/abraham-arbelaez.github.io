@@ -21,3 +21,10 @@ redirect_from:
 <img src='/images/mapsquirrel.png'>
 
 <img src='/images/percentsquirrel.png'>
+
+
+### Consumer Price Index in the US
+
+<img src='/images/cpi.gif'>
+
+<img src='/images/cpiyearly.png'>
