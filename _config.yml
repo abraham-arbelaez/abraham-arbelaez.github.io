@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Abraham Arbelaez"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student"
-  location         : "Department of Statistics"
-  employer         : "Kansas State University"
+  bio              : "Ph.D. Student, Department of Statistics, Kansas State University"
+  location         : "Manhattan, KS"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vXu2Ar8AAAAJ&hl=en"
   email            : "arbelaez@ksu.edu"
