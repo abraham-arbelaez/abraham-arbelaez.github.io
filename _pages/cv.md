@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-[See my CV here](http://abraham-arbelaez.github.io/files/CV.pdf)
+[My CV](http://abraham-arbelaez.github.io/files/CV.pdf) (last updated August 2023)
