@@ -6,5 +6,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Data Visualization"
-    url: /dataviz/
+    url: /datavis/
