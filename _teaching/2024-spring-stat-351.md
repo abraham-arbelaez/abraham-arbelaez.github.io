@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Manhattan, KS"
 ---
 
-<h2> Graduate Instructor / Teaching Assistant for <a href="https://www.k-state.edu/stats/about/people/HigginsMichael.html">Michael Higgins</a></h2>
+<h2> Graduate Instructor / Teaching Assistant for <a href="https://www.k-state.edu/stats/about/people/HigginsMichael.html" target="_blank">Michael Higgins</a></h2>
 
 <h3> Short Description of course: </h3>
 
