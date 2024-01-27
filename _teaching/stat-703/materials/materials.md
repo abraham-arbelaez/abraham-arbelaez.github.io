@@ -1,7 +1,4 @@
 ---
-title: "Spring 2024 Stat 703 Materials"
-collection: teaching
-type: "Teaching Assistant for Graduate course"
 permalink: /_teaching/stat-703/materials/materials
 ---
 
