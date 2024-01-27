@@ -17,25 +17,36 @@ location: "Manhattan, KS"
 Statistical concepts and methods basic to experimental research in the natural sciences; hypothetical populations; estimation of parameters; confidence intervals; parametric and nonparametric tests of hypotheses; linear regression; correlation; one-way analysis of variance; t-test; chi-square test.
 (3 credit hours) Offered: Fall, Spring, Summer. 
 
-<!-- Tab links -->
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
-</div>
+##### Try it yourself! {.tabset}
+###### Case study I
 
-<!-- Tab content -->
-<div id="London" class="tabcontent">
-  <h3>London</h3>
-  <p>London is the capital city of England.</p>
-</div>
+You want to know the number of students that are Graduate Masters in our `students` dataset. The variable that we are using for this is `classLevel`. 
 
-<div id="Paris" class="tabcontent">
-  <h3>Paris</h3>
-  <p>Paris is the capital of France.</p>
-</div>
+Hint: replace `section` with `classLevel`
 
-<div id="Tokyo" class="tabcontent">
-  <h3>Tokyo</h3>
-  <p>Tokyo is the capital of Japan.</p>
-</div>
+---
+
+###### Answer I
+
+There are 53 students that are Graduate Masters.
+
+---
+
+###### Code I
+
+```
+# Making table
+class = table(students$classLevel)
+
+# Showing the class level table
+class
+
+# Constructing the barplot
+barplot(class)
+
+# Constructing the pie chart
+pie(class)
+```
+
+---
+
