@@ -21,6 +21,6 @@ author_profile: true
 
 {% include base_path %}
 
-[attempt](_teaching/2024-spring-stat-703.html) 
+[attempt](./_teaching/2024-spring-stat-703.html) 
 
 because why not
