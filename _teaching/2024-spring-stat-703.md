@@ -8,9 +8,9 @@ date: 2024-01-01
 location: "Manhattan, KS"
 ---
 
-<h3> Teaching Assistant</h3>
+<h2> Teaching Assistant for <a href="https://www.k-state.edu/stats/about/people/gadbury.html">Gary Gadbury</a></h2>
 
-<h4> Short Description of course: </h4>
+<h3> Short Description of course: </h3>
 
 <b> STAT 703. Introduction to Statistical Methods for the Sciences. </b>
 
