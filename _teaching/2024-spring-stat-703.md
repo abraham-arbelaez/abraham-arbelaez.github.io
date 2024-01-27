@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Manhattan, KS"
 ---
 
-<h3> Graduate Instructor</h3>
+<h3> Teaching Assistant</h3>
 
 <h4> Short Description of course: </h4>
 
