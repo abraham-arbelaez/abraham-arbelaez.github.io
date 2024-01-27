@@ -1,17 +1,17 @@
 ---
-title: "Teaching Assistant"
+title: "Spring 2024 Stat 703"
 collection: teaching
-type: "Graduate course"
+type: "Teaching Assistant for Graduate course"
 permalink: /teaching/2024-spring-stat-703
 venue: "Kansas State University, Department of Statistics"
-date: 2024-01-01
-location: "Manhattan, KS"
 ---
 
-<h5> Graduate Instructor</h5>
+<h3> Graduate Instructor</h3>
 
-<h6> Short Description of course: </h6>
+<h4> Short Description of course: </h4>
 
-Continuation of STAT 350 including study of index numbers, time series, business cycles, seasonal variation, multiple regression and correlation, forecasting; some nonparametric methods applicable in business and economic studies.
+** STAT 703. Introduction to Statistical Methods for the Sciences. **
+
+Statistical concepts and methods basic to experimental research in the natural sciences; hypothetical populations; estimation of parameters; confidence intervals; parametric and nonparametric tests of hypotheses; linear regression; correlation; one-way analysis of variance; t-test; chi-square test.
 (3 credit hours) Offered: Fall, Spring, Summer.
 
