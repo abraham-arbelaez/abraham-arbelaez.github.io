@@ -1,7 +1,7 @@
 ---
-title: "Graduate Instructor"
+title: "Fall 2023 Stat 351"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate Instructor for Undergraduate course"
 permalink: /teaching/2023-fall-stat-351
 venue: "Kansas State University, Department of Statistics - College of Business"
 date: 2023-08-01
