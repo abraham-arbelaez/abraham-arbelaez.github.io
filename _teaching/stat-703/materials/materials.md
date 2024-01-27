@@ -1,5 +1,5 @@
 ---
-permalink: /_teaching/stat-703/materials/materials
+permalink: /_teaching/stat-703/materials/
 ---
 
 
