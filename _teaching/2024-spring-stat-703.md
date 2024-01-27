@@ -15,5 +15,5 @@ location: "Manhattan, KS"
 <b> STAT 703. Introduction to Statistical Methods for the Sciences. </b>
 
 Statistical concepts and methods basic to experimental research in the natural sciences; hypothetical populations; estimation of parameters; confidence intervals; parametric and nonparametric tests of hypotheses; linear regression; correlation; one-way analysis of variance; t-test; chi-square test.
-(3 credit hours) Offered: Fall, Spring, Summer.
+(3 credit hours) Offered: Fall, Spring, Summer. 
 
