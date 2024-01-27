@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Manhattan, KS"
 ---
 
-<h2> Teaching Assistant for <a href="https://www.k-state.edu/stats/about/people/gadbury.html">Gary Gadbury</a></h2>
+<h2> Teaching Assistant for <a href="https://www.k-state.edu/stats/about/people/gadbury.html" target="_blank">Gary Gadbury</a></h2>
 
 <h3> Short Description of course: </h3>
 
