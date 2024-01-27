@@ -17,36 +17,3 @@ location: "Manhattan, KS"
 Statistical concepts and methods basic to experimental research in the natural sciences; hypothetical populations; estimation of parameters; confidence intervals; parametric and nonparametric tests of hypotheses; linear regression; correlation; one-way analysis of variance; t-test; chi-square test.
 (3 credit hours) Offered: Fall, Spring, Summer. 
 
-##### Try it yourself! {.tabset}
-###### Case study I
-
-You want to know the number of students that are Graduate Masters in our `students` dataset. The variable that we are using for this is `classLevel`. 
-
-Hint: replace `section` with `classLevel`
-
----
-
-###### Answer I
-
-There are 53 students that are Graduate Masters.
-
----
-
-###### Code I
-
-```
-# Making table
-class = table(students$classLevel)
-
-# Showing the class level table
-class
-
-# Constructing the barplot
-barplot(class)
-
-# Constructing the pie chart
-pie(class)
-```
-
----
-
