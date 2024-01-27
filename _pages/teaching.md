@@ -19,6 +19,6 @@ author_profile: true
   <li> <i>Introduction to Statistical Methods for the Sciences</i>, Spring 2024. (KSU STAT 703, Graduate course)  </li>
 </ul>
 
-[attempt](_teaching/2024-spring-stat-703.md) 
+[attempt](teaching/2024-spring-stat-703.html) 
 
 because why not
