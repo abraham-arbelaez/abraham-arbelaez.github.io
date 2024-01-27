@@ -16,5 +16,7 @@ author_profile: true
 
 <h3> Teaching Assistant </h3>
 <ul>
-  <li> <i>Introduction to Statistical Methods for the Sciences</i>, Spring 2024. (KSU STAT 703, Graduate course) (see in [here](_teaching/2024-spring-stat-703.md)) </li>
+  <li> <i>Introduction to Statistical Methods for the Sciences</i>, Spring 2024. (KSU STAT 703, Graduate course)  </li>
 </ul>
+
+[attempt](_teaching/2024-spring-stat-703.md)
