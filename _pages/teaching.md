@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+{% include base_path %}
 
 <h2> Kansas State University </h2> 
 
@@ -19,7 +19,6 @@ author_profile: true
   <li> <i>Introduction to Statistical Methods for the Sciences</i>, Spring 2024. (KSU STAT 703, Graduate course)  </li>
 </ul>
 
-{% include base_path %}
 
 [attempt](../_teaching/2024-spring-stat-703.html) 
 
