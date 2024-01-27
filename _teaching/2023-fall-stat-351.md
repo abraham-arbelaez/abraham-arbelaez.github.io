@@ -8,13 +8,6 @@ date: 2023-08-01
 location: "Manhattan, KS"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<h2> Graduate Instructor </h2>
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Continuation of STAT 350 including study of index numbers, time series, business cycles, seasonal variation, multiple regression and correlation, forecasting; some nonparametric methods applicable in business and economic studies.
