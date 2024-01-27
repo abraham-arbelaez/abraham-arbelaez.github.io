@@ -10,7 +10,7 @@ This is the materials page!
 
 ## Useful links for Students:
 
-- [Intro](../_teaching/stat-703/materials/Intro.html). This materials page will take you to all the notebooks for this class developed by me!
+- [Intro](..../_teaching/stat-703/materials/Intro.html). This materials page will take you to all the notebooks for this class developed by me!
 
 - [Datasets](../_teaching/stat-703/datasets/datasets.md). This page will take you to the datasets that I used for the notebooks!
 
