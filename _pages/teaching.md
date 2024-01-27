@@ -10,11 +10,11 @@ author_profile: true
 
 <h3> Graduate Instructor </h3>
 
-- [*Business and Economic Statistics II*](../_teaching/2024-spring-stat-351.html), Spring 2024. (KSU STAT 351, Undergraduate course)
+- [*Business and Economic Statistics II*](../_teaching/2024-spring-stat-351.md), Spring 2024. (KSU STAT 351, Undergraduate course)
 
-- [*Business and Economic Statistics II*](../_teaching/2023-fall-stat-351.html), Fall 2023. (KSU STAT 351, Undergraduate course)
+- [*Business and Economic Statistics II*](../_teaching/2023-fall-stat-351.md), Fall 2023. (KSU STAT 351, Undergraduate course)
 
 <h3> Teaching Assistant </h3>
 
-- [*Introduction to Statistical Methods for the Sciences*](../_teaching/2024-spring-stat-703.html), Spring 2024. (KSU STAT 703, Graduate course)
+- [*Introduction to Statistical Methods for the Sciences*](../_teaching/2024-spring-stat-703.md), Spring 2024. (KSU STAT 703, Graduate course)
 
