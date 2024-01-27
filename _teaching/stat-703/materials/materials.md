@@ -4,6 +4,7 @@ collection: teaching
 type: "Teaching Assistant for Graduate course"
 permalink: /_teaching/stat-703/materials/materials
 ---
+{% include base_path %}
 
 This is the materials page!
 
