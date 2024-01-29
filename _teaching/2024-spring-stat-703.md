@@ -19,9 +19,9 @@ Statistical concepts and methods basic to experimental research in the natural s
 
 ## Useful links for Students:
 
-- [Materials](../_teaching/stat-703/materials/materials.html). This materials page will take you to all the notebooks for this class developed by me!
+- [Materials](https://github.com/abraham-arbelaez/STAT-703-KSU/tree/47eaf40beeaddb1abfe19d9f891198af17813580/Materials). This materials page will take you to all the notebooks for this class developed by me!
 
-- [Datasets](https://github.com/abraham-arbelaez/abraham-arbelaez.github.io/tree/8d8b8ae87e26039d01ebb66c837bb495a0446419/_teaching/stat-703/datasets). This page will take you to the datasets that I used for the notebooks!
+- [Datasets](https://github.com/abraham-arbelaez/STAT-703-KSU/tree/47eaf40beeaddb1abfe19d9f891198af17813580/Datasets). This page will take you to the datasets that I used for the notebooks!
 
-- [Multimedia](../_teaching/stat-703/multimedia/multimedia.md). This page will take you to some tutorials I have recorded using R.
+- [Multimedia](https://github.com/abraham-arbelaez/STAT-703-KSU/tree/47eaf40beeaddb1abfe19d9f891198af17813580/Multimedia). This page will take you to some tutorials I have recorded using R.
 
