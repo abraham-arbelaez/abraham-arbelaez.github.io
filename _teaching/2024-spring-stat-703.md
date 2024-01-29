@@ -19,7 +19,7 @@ Statistical concepts and methods basic to experimental research in the natural s
 
 ## Useful links for Students:
 
-- [Materials](../_teaching/stat-703/materials/materials.md). This materials page will take you to all the notebooks for this class developed by me!
+- [Materials](../_teaching/stat-703/materials/materials.html). This materials page will take you to all the notebooks for this class developed by me!
 
 - [Datasets](../_teaching/stat-703/datasets/datasets.md). This page will take you to the datasets that I used for the notebooks!
 
