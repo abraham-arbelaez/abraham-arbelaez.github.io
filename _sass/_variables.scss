@@ -55,6 +55,7 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 
 $purple                     : #512888;
 $ksu-gray                   : #D1D1D1;
+$ksu-lavender               : #DBA7FF;
 
 $body-color                 : #fff;
 $background-color           : #fff;
@@ -93,11 +94,17 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+/* $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%); */
+
+$link-color                 : $ksu-lavender;
+$link-color-hover           : $ksu-lavender;
+$link-color-visited         : $ksu-lavender;
+$masthead-link-color        : $ksu-lavender;
+$masthead-link-color-hover  : $ksu-lavender;
 
 
 /*
