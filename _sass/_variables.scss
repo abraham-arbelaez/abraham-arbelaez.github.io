@@ -53,7 +53,7 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$purple                     : #512888;
+$ksu-purple                 : #512888;
 $ksu-gray                   : #D1D1D1;
 $ksu-lavender               : #DBA7FF;
 
@@ -100,9 +100,9 @@ $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%); */
 
-$link-color                 : $ksu-lavender;
+$link-color                 : $ksu-purple;
 $link-color-hover           : $ksu-lavender;
-$link-color-visited         : $ksu-lavender;
+$link-color-visited         : $ksu-purple;
 $masthead-link-color        : $ksu-lavender;
 $masthead-link-color-hover  : $ksu-lavender;
 
