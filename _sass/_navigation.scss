@@ -257,7 +257,7 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: $ksu-purple;
+    background: $ksu-lavender;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
@@ -267,7 +267,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: $ksu-purple;
+        background: $ksu-lavender;
       }
     }
 
@@ -380,7 +380,7 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: #ksu_purple;
     font-size: $type-size-6;
     background: $ksu-purple;
     border-top-left-radius: $border-radius;
