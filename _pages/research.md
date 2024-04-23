@@ -11,7 +11,9 @@ My research is focused in developing methods with interdisciplinary fields such 
 
 ## Mechanistic Species Distribution Models
 
-Species distribution models (SDMs) are like the GPS of ecology, helping us figure out where different animals are likely to hang out based on factors like the weather and what's on the menu. They're super handy for all sorts of things, from figuring out where to put protected areas to planning for how climate change might shake things up for species.
+Mechanistic Species distribution models (MSDMs) can help us solve the "why" and "how" of [important unanswered ecological questions](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1999.0534?casa_token=SRE876iPgPUAAAAA:0vbOck1cUnGnWHnkSJPorOsZNxWn5c2_YEwuildWbeLN77qEpmGTsU1chhESaZGSzjrOGf-faGPRX71s)--don't mind me redirecting you to one of my favorite papers written by May in 1999. MSDMs aim to uncover the "hidden" mechanisms and secondary actors behind what we can catalogue as migration/climate change/extinction of species/etc.
+
+
 
 
 ## Animal Movement
