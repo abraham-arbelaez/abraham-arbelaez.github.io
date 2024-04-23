@@ -20,9 +20,9 @@ Understanding how animals get around tells us a lot about their lives--and a lot
 
 <img src='/images/map_eagle.png'>
 
-In this case, we were able to exhibit how our model captures different trajectories in the case that you saw a bald eagle in Pennsylvania compared to seeing a bald eagle in Kansas.
+In this case, we were able to exhibit how our model captures different trajectories in the case that you saw a bald eagle in Pennsylvania (in blue) compared to seeing a bald eagle in Kansas (in purple).
 
-<img src='/images/ksu_eagle.png' width = '400/'> <img src='/images/psu_eagle.png' width = '400/'>
+<img src='/images/eagles_pred.png'>
 
 [See more here](http://abraham-arbelaez.github.io/files/Archetype_Analysis_of_golden_eagle_migration_patterns_using_Bayesian_Methods.pdf)
 
