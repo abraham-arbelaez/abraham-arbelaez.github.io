@@ -11,14 +11,20 @@ My research is focused in developing methods with interdisciplinary fields such 
 
 ## Mechanistic Species Distribution Models
 
-Species distribution models (SDMs) are like the GPS of ecology, helping us figure out where different critters are likely to hang out based on factors like the weather and what's on the menu. They're super handy for all sorts of things, from figuring out where to put protected areas to planning for how climate change might shake things up for species.
+Species distribution models (SDMs) are like the GPS of ecology, helping us figure out where different animals are likely to hang out based on factors like the weather and what's on the menu. They're super handy for all sorts of things, from figuring out where to put protected areas to planning for how climate change might shake things up for species.
 
 
 ## Animal Movement
 
-Movement behavior tells us much about the ecology of an animal.  I am interested in how much of an animal’s movement can be explained in a mechanistic model linking movement to observable landscape features and biotic drivers.  Such models can provide important information about landscape effects on population connectivity, and potential results of landscape change due to climate change or anthropomorphic disturbances.
+Understanding how animals get around tells us a lot about their lives--and a lot about the environment and our planet. I'm really curious about how much of their movement we can capture using statistical models.
 
 <img src='/images/map_eagle.png'>
+
+In this case, we were able to exhibit how our model captures different trajectories in the case that you saw a bald eagle in Pennsylvania compared to seeing a bald eagle in Kansas.
+
+<img src='/images/ksu_eagle.gif'>
+
+<img src='/images/psu_eagle.gif'>
 
 [See more here](http://abraham-arbelaez.github.io/files/Archetype_Analysis_of_golden_eagle_migration_patterns_using_Bayesian_Methods.pdf)
 
