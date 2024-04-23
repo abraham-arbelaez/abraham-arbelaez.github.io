@@ -22,11 +22,13 @@ I am currently working with [Dr. Alice Boyle](https://www.aliceboyle.net/) to de
 
 ### Endangered Species
 
-Bumblebees play a crucial role in ecosystems and agriculture as important pollinators. Their pollination services are essential for the production of many fruits, vegetables, and nuts that humans rely on for food. Without bumblebees, crops like tomatoes, blueberries, and almonds would suffer, impacting both food availability and biodiversity. I am working with Danielle Holthaus developing a species distribution model for bombus pennsylvanicus and bombus impatiens&mdash;two species endangered in Kansas. We are developing this to protect th
+Bumblebees play a crucial role in ecosystems and agriculture as important pollinators. Their pollination services are essential for the production of many fruits, vegetables, and nuts that humans rely on for food. Without bumblebees, crops like tomatoes, blueberries, and almonds would suffer, impacting both food availability and biodiversity. I am working with Danielle Holthaus developing a species distribution model for bombus pennsylvanicus and bombus impatiens&mdash;two species endangered in Kansas.
+
+
 
 ### Invasive Species
 
-Japanese beetles are considered problematic because they are invasive pests that wreak havoc on plants and ecosystems. Originally native to Japan, these beetles have spread to various parts of North America, where they have become a major nuisance. Japanese beetles feed on the leaves, flowers, and fruits of over 300 plant species, causing significant damage to agricultural crops, ornamental plants, and natural vegetation. Their voracious appetite and rapid reproduction can devastate landscapes and disrupt ecosystems, leading to declines in plant diversity and overall ecosystem health. Controlling Japanese beetle populations is challenging and often requires the use of pesticides, which can have negative impacts on the environment and non-target species. I am working with Nicole Kucherov to develop a model that can recreate the species distribution map and prevent the spread of these to protect native plant species and mantain ecosystem balance.
+Originally native to Japan, japanese beetles have spread to various parts of North America, where they have become a major conservation problem. They feed on the leaves, flowers, and fruits of over 300 plant species, causing significant damage to agricultural crops, ornamental plants, and natural vegetation. Their voracious appetite and rapid reproduction can devastate landscapes and disrupt ecosystems, leading to declines in plant diversity and overall ecosystem health. I am working with Nicole Kucherov to develop a model that can recreate the species distribution map and prevent the spread of these to protect native plant species and mantain ecosystem balance.
 
 
 ## Animal Movement
