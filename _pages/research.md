@@ -13,7 +13,7 @@ My research is focused in developing methods with interdisciplinary fields such 
 
 ## Animal Movement
 
-<img src='/images/'>
+<img src='/images/map_eagle.png'>
 
 [See more here](http://abraham-arbelaez.github.io/files/Archetype_Analysis_of_golden_eagle_migration_patterns_using_Bayesian_Methods.pdf)
 
