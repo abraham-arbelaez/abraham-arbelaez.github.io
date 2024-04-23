@@ -19,12 +19,16 @@ Species distribution models (SDMs) are like the GPS of ecology, helping us figur
 Understanding how animals get around tells us a lot about their lives--and a lot about the environment and our planet. I'm really curious about how much of their movement we can capture using statistical models.
 
 <div style="text-align:center">
-    <img src='/images/map_eagle.png'>
+    <img src='/images/map_eagle.png' width = "50%" />
 </div>
 
 In this case, we were able to exhibit how our model captures different trajectories in the case that you saw a bald eagle in Pennsylvania (in blue) compared to seeing a bald eagle in Kansas (in purple).
 
-<img src='/images/eagles_pred.png'>
+
+<div style="text-align:center">
+    <img src='/images/eagles_pred.png'>
+</div>
+
 
 [See more here](http://abraham-arbelaez.github.io/files/Archetype_Analysis_of_golden_eagle_migration_patterns_using_Bayesian_Methods.pdf)
 
