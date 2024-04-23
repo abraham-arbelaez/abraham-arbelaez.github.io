@@ -7,10 +7,13 @@ redirect_from:
   - /research.html
 ---
 
+My research is focused in developing methods with interdisciplinary fields such as Ecology, Entomology, and Agriculture. I am currently working in...
 
-## Archetype Analysis of golden eagle migration patterns using Bayesian Methods
+## Mechanistic Species Distribution Models
 
-We developed a new approach to archetype analysis, in which covariates are considered, and a subset of the archetypes is defined by existing golden eagles who exhibit known, interpretable behaviors, in order to be fitted using Bayesian methods and Markov Chain Monte Carlo simulations. We were also able to exhibit that covariates such as age influence birds’ behavior and their migration routes, concluding that the older they get, the more likely they will belong in a non-migratory archetype.
+## Animal Movement
+
+<img src='/images/'>
 
 [See more here](http://abraham-arbelaez.github.io/files/Archetype_Analysis_of_golden_eagle_migration_patterns_using_Bayesian_Methods.pdf)
 
