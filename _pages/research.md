@@ -21,7 +21,7 @@ Mechanistic Species distribution models (MSDMs) can help us solve the "why" and 
 Understanding how animals get around tells us a lot about their lives&mdash;and a lot about the environment and our planet. I'm really curious about how much of their movement we can capture using statistical models.
 
 <div style="text-align:center">
-    <img src='/images/map_eagle.png' width = "50%" />
+    <img src='/images/map_eagle.png' width = "75%" />
 </div>
 
 In this case, we were able to exhibit how our model captures different trajectories in the case that you saw a bald eagle in Pennsylvania (in blue) compared to seeing a bald eagle in Kansas (in purple).
