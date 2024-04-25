@@ -24,7 +24,13 @@ I am currently working with [Dr. Alice Boyle](https://www.aliceboyle.net/) to de
 
 Bumblebees play a crucial role in ecosystems and agriculture as important pollinators. Their pollination services are essential for the production of many fruits, vegetables, and nuts that humans rely on for food. Without bumblebees, crops like tomatoes, blueberries, and almonds would suffer, impacting both food availability and biodiversity. I am working with Danielle Holthaus developing a species distribution model for bombus pennsylvanicus and bombus impatiens&mdash;two species endangered in Kansas.
 
+<div style="text-align:center">
+    <img src='/images/impatiens.png' width = "75%" />
+</div>
 
+<div style="text-align:center">
+    <img src='/images/pennsylvanicus.png' width = "75%" />
+</div>
 
 ### Invasive Species
 
