@@ -17,6 +17,10 @@ Mechanistic Species distribution models (MSDMs) can help us solve the "why" and 
 
 I am currently working with [Dr. Alice Boyle](https://www.aliceboyle.net/) to determine the drivers of population decline of birds, most specifically Grasshopper Sparrow in the midwest.
 
+<div style="text-align:center">
+    <img src='/images/grspmap.png' width = "75%" />
+</div>
+
 
 ### Entomology
 
