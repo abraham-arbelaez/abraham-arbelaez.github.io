@@ -40,9 +40,9 @@ Bumblebees play a crucial role in ecosystems and agriculture as important pollin
 
 Originally native to Japan, japanese beetles have spread to various parts of North America, where they have become a major conservation problem. They feed on the leaves, flowers, and fruits of over 300 plant species, causing significant damage to agricultural crops, ornamental plants, and natural vegetation. Their voracious appetite and rapid reproduction can devastate landscapes and disrupt ecosystems, leading to declines in plant diversity and overall ecosystem health. I am working with Nicole Kucherov to develop a model that can recreate the species distribution map and prevent the spread of these to protect native plant species and mantain ecosystem balance.
 
-<div style="text-align:center">
-    <img src='/images/japanese beetle.png' width = "75%" />
-</div>
+---<div style="text-align:center">
+---<img src='/images/japanese beetle.png' width = "75%" />
+---</div>
 
 ## Animal Movement
 
