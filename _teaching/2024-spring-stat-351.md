@@ -16,3 +16,6 @@ location: "Manhattan, KS"
 
 Continuation of STAT 350 including study of index numbers, time series, business cycles, seasonal variation, multiple regression and correlation, forecasting; some nonparametric methods applicable in business and economic studies.
 (3 credit hours) Offered: Fall, Spring, Summer.
+
+[Teaching Evaluation - Section I](http://abraham-arbelaez.github.io/files/tevals/stat351sp24-1.pdf)
+[Teaching Evaluation - Section II](http://abraham-arbelaez.github.io/files/tevals/stat351sp24-2.pdf)
