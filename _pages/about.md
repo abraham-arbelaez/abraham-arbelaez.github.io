@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hola! I am a first-year Ph.D. Student in Statistics at Kansas State University, where I work under the supervision of [Trevor Hefley](https://sites.google.com/view/trevorhefleyresearch/home). I received my B.S. in Statistics from the Pennsylvania State University, where I worked in spatio-temporal statistics using Bayesian Methods with [Ephraim Hanks](https://sites.psu.edu/hanks/) (see in [research](/research/)).
+Hola! I am a second-year Ph.D. Student in Statistics at Kansas State University, where I work under the supervision of [Trevor Hefley](https://sites.google.com/view/trevorhefleyresearch/home). I received my B.S. in Statistics from the Pennsylvania State University, where I worked in spatio-temporal statistics using Bayesian Methods with [Ephraim Hanks](https://sites.psu.edu/hanks/) (see in [research](/research/)).
 
 My research interests are:
 * Mechanistic Species Distribution Models
