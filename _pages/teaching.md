@@ -18,5 +18,7 @@ author_profile: true
 
 <h3> Teaching Assistant </h3>
 
+- [*Introduction to Statistics*](../_teaching/2024-fall-stat-225.md), Fall 2024. (KSU STAT 225, Undergraduate course)
+
 - [*Introduction to Statistical Methods for the Sciences*](../_teaching/2024-spring-stat-703.md), Spring 2024. (KSU STAT 703, Graduate course)
 
