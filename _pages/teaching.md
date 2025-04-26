@@ -24,4 +24,6 @@ author_profile: true
 
 <h3> Workshops </h3>
 
-- [GGs: Gganimating your Ggdata with Gganimate](https://github.com/abraham-arbelaez/gganimate-tutorial), DataFest 2025, KSU
+- [Statistically Attractive: Making Data Look Good with R](https://github.com/abraham-arbelaez/ggplot-tutorial), ASA DataFest at Kansas State 2025.
+
+- [GGs: Gganimating your Ggdata with Gganimate](https://github.com/abraham-arbelaez/gganimate-tutorial), ASA DataFest at Kansas State 2025.
