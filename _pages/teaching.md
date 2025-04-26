@@ -22,3 +22,6 @@ author_profile: true
 
 - [*Introduction to Statistical Methods for the Sciences*](../_teaching/2024-spring-stat-703.md), Spring 2024. (KSU STAT 703, Graduate course)
 
+<h3> Workshops </h3>
+
+- [GGs: Gganimating your Ggdata with Gganimate](https://github.com/abraham-arbelaez/gganimate-tutorial), DataFest 2025, KSU
