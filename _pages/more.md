@@ -14,7 +14,7 @@ not even a year ago did I think I would be applying for a graduate education. I
 believe graduate school is the next step for me—even though I have faced multiple 
 obstacles and have gone through ups and downs. I would like to give a little personal background, and since I am a statistics 
 major, I thought it would make sense to categorize my life with one single function:
-f(x) = x2(1 + x)(you can see the graph in the last page). You may be wondering why I 
+$f(x) = x2(1 + x)$ (you can see the graph in the last page). You may be wondering why I 
 picked that simple and boring equation—that you learn in algebra in middle school, when 
 I could have picked a more flavorful and cooler formula such as the Euler’s Identity—which
 is considered by many to be the most beautiful equation in mathematics. However, my life 
@@ -25,7 +25,7 @@ $f(x) = x2(1 + x)$ for $x ≤ – \frac{2}{3}$. My parents, running away from vi
 
 After I graduated from high school in Colombia, I embarked on a journey by myself and traveled to Rhode Island to finish my 12th grade in a performing arts school. I lived with my step-aunt there and my desire to learn more about numbers and statistics drove me to Penn State, place where I found my local maxima.
 
-$f(x) = x2(1 + x)$ for $ – \frac{2}{3}< x ≤ – \frac{1}{3} $. Leaving my family behind in Colombia to become a first-generation college student was tough. I often struggled with imposter syndrome. There were moments during my first two years in college where I would think that I wasn’t meant to be there—and those thoughts became stronger with COVID-19, when I felt that school and academia weren’t my place—and I should have gone back home to the country where I grew up. The sudden passing of my grandmother, not being able to go back to say a goodbye, and the feeling of constant anxiety at the possibility of losing either of my parents because of COVID-19 while I was in Pennsylvania, took a toll on me. 
+$f(x) = x2(1 + x)$ for $ – \frac{2}{3} < x ≤ – \frac{1}{3} $. Leaving my family behind in Colombia to become a first-generation college student was tough. I often struggled with imposter syndrome. There were moments during my first two years in college where I would think that I wasn’t meant to be there—and those thoughts became stronger with COVID-19, when I felt that school and academia weren’t my place—and I should have gone back home to the country where I grew up. The sudden passing of my grandmother, not being able to go back to say a goodbye, and the feeling of constant anxiety at the possibility of losing either of my parents because of COVID-19 while I was in Pennsylvania, took a toll on me. 
 
 $f(x) = x2(1 + x)$ for $ – \frac{1}{3}< x$. I believe that I found my inflection point $(x = – \frac{1}{3})$ once I realized that people like me deserved to have opportunities as much as anyone else, and that I was a statistics student at Penn State for a reason. Therefore, “cogí al toro por los cuernos”, which means in Spanish “to take the bull by the horns,” and threw myself out of the negative trend I was heading in. 	
 
